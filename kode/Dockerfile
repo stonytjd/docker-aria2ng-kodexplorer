@@ -21,6 +21,7 @@ RUN set -x \
 WORKDIR /var/www/html
 
 COPY entrypoint.sh /usr/local/bin/
+RUN chmod +x /usr/local/bin/entrypoint.sh
 
 EXPOSE 80
 
