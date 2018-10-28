@@ -9,7 +9,10 @@ docker-compose up -d
 
   http://ip:8000 admin changeme
 
+![ariang](ariang.png)
+
 - kodexplorer 4.36
 
   http://ip:8001 设置密码
 
+![kodexplorer](kodexplorer.png)
