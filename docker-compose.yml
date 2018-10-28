@@ -4,6 +4,8 @@ services:
   kode:
     build: ./kode
     container_name: kode
+    volumes:
+      - ./data:/var/www/html/Aria2Download:rw
     ports:
       - "8001:80"
     restart: always
