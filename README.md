@@ -11,5 +11,5 @@ docker-compose up -d
 
 - kodexplorer
 
-  http://ip:8000 设置密码
+  http://ip:8001 设置密码
 
